@@ -22,4 +22,4 @@ O mesmo processo é repetido para o segundo valor. Quando ambos os valores são 
 
 O loop `while` é usado para tratar exceções. Ele repete o processo de leitura do valor até que o usuário insira um valor válido. O método `nextLine()` é usado para limpar o buffer do scanner após cada leitura mal-sucedida, permitindo que o usuário tente novamente.
 
-Se tudo ocorrer bem, o programa será encerrado normalmente. Se ocorrer algum erro, como um valor inválido inserido pelo usuário, o programa exibirá uma mensagem de erro e pedirá ao usuário que insira novamente.
+Se tudo ocorrer bem, o programa será encerrado normalmente. Se ocorrer algum erro, como um valor inválido inserido pelo usuário, o programa exibirá uma mensagem de erro e pedirá ao usuário que insira novamente...
